@@ -36,5 +36,5 @@
 		"type": "module"
     },
   "host_permissions": ["https://*/*", "http://*/*"],
-  "permissions": ["tabGroups", "tabs", "clipboardWrite", "clipboardRead", "scripting"]
+  "permissions": ["tabs", "scripting"]
 }
